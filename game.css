@@ -9,7 +9,7 @@ html, body {
 
 .full-screen-container {
 	border-radius: 20px;
-    background-image: url("clement-falize-9uNFBOXBEBc-unsplash.jpg");
+    background-image: url("background.png");
     height: 100vh;
     width: 100vw;
     background-size: cover;
